@@ -1,0 +1,22 @@
+Student Report - 2025-01-30 23:54:47
+==================================================
+Total Students: 3
+
+ID: 1
+Name: ahmed
+Roll Number: 111
+Email: ahmed@gmail.com
+Grade: a
+--------------------------------------------------
+ID: 2
+Name: ali
+Roll Number: 112
+Email: ali@gmail.com
+Grade: b
+--------------------------------------------------
+ID: 3
+Name: hamza
+Roll Number: 113
+Email: hamza@gmail.com
+Grade: c
+--------------------------------------------------
